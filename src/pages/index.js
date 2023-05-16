@@ -29,7 +29,7 @@ export async function getStaticProps() {
   return {
     props: {
       name: "Bryan Balderrama",
-      summary: "Text"
+      summary: "I am a full-stack developer with proficiency in both front-end and back-end development. I am capable of designing user interfaces, writing code for the client-side, developing server-side logic, and managing databases. My expertise allows me to build functional and responsive websites that meet the needs of clients and users. I have a passion for technology and a desire to continuously learn and improve my skills."
     }
   }
 }
